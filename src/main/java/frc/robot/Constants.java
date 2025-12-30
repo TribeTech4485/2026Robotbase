@@ -27,13 +27,13 @@ public final class Constants {
     public static final int swerveModule4DriveMotor = 7;
     public static final int swerveModule4TurningMotor = 8;
 
-    public static final int elevatorMotor1 = 9;
-    public static final int elevatorMotor2 = 10;
+    // public static final int elevatorMotor1 = 9;
+    // public static final int elevatorMotor2 = 10;
 
-    public static final int algaeClawMotor = 11;
-    public static final int algaeArmMotor = 12;
-    public static final int coralManipulatorMotor = 13;
-    public static final int climberMotor = 14;
+    // public static final int algaeClawMotor = 11;
+    // public static final int algaeArmMotor = 12;
+    // public static final int coralManipulatorMotor = 13;
+    // public static final int climberMotor = 14;
   }
 
   public static class Swerve {
